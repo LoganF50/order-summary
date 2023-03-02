@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-order-summary-using-flexbox-KqjEmE0Lup)
 - Live Site URL: [Github Pages URL](https://loganf50.github.io/order-summary/)
 
 ## My process
